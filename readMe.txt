@@ -1,1 +1,0 @@
-Drugi przycisk myszy usuwa ostatnią akcję
